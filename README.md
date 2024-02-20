@@ -1,6 +1,6 @@
-# BuggyBuddy
+# 🪲 BuggyBuddy
 
-BuggyBuddy is an end-to-end data science project aimed at performing similarity search through a bug report database to assist users/operators in identifying duplicate bug reports. This facilitates faster problem resolution in software development.
+BuggyBuddy is an end-to-end data science project aimed at performing similarity search through a bug report database to assist users in identifying duplicate bug reports. This facilitates faster problem resolution in software development.
 
 ## 1. Data Analysis and Model Exploration
 
